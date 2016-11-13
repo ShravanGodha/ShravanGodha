@@ -1,8 +1,9 @@
  div.scrollmenu {
-    background-color:blue ;
+    background-color: ;
     overflow: auto;
     white-space: nowrap;
     text-align: right;
+
 
 }
 div.scrollmenu a {
@@ -25,7 +26,9 @@ div.ShravaGodha{
     text-align: center;
     font-family: "caliber", Times, serif;
     font-size: 20px;
-    background= "../static/img/s.jpg";
+    background : ;
+    background-image: ../static/img/s.jpg;
+    
 }
 
 div.ShravaGodha :hover {
