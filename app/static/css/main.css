@@ -1,0 +1,37 @@
+ div.scrollmenu {
+    background-color: ;
+    overflow: auto;
+    white-space: nowrap;
+    text-align: right;
+
+}
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: right;
+    padding: 15px;
+    text-decoration: none;
+    font-family: "caliber", Times, serif;
+    font-size: 12px;
+}
+
+div.scrollmenu a:hover {
+    background-color:;
+    color: red;
+}
+
+div.ShravaGodha{
+    color: white;
+    text-align: center;
+    font-family: "caliber", Times, serif;
+    font-size: 20px;
+    background= "../static/img/s.jpg";
+}
+
+div.ShravaGodha :hover {
+    background-color:;
+    color: red;
+}   
+
+
+
